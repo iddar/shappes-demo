@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/shappes-demo/static/css/main.d1b05096.chunk.css",
-    "main.js": "/shappes-demo/static/js/main.c41b3566.chunk.js",
-    "main.js.map": "/shappes-demo/static/js/main.c41b3566.chunk.js.map",
+    "main.js": "/shappes-demo/static/js/main.207090a7.chunk.js",
+    "main.js.map": "/shappes-demo/static/js/main.207090a7.chunk.js.map",
     "runtime-main.js": "/shappes-demo/static/js/runtime-main.fd89169e.js",
     "runtime-main.js.map": "/shappes-demo/static/js/runtime-main.fd89169e.js.map",
     "static/js/2.e399d1af.chunk.js": "/shappes-demo/static/js/2.e399d1af.chunk.js",
     "static/js/2.e399d1af.chunk.js.map": "/shappes-demo/static/js/2.e399d1af.chunk.js.map",
     "index.html": "/shappes-demo/index.html",
-    "precache-manifest.da18f814d09f490e759cfc22bc3c1e24.js": "/shappes-demo/precache-manifest.da18f814d09f490e759cfc22bc3c1e24.js",
+    "precache-manifest.152156edc281078cb10ca60ec7e6e582.js": "/shappes-demo/precache-manifest.152156edc281078cb10ca60ec7e6e582.js",
     "service-worker.js": "/shappes-demo/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/shappes-demo/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.e399d1af.chunk.js.LICENSE.txt": "/shappes-demo/static/js/2.e399d1af.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fd89169e.js",
     "static/js/2.e399d1af.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.c41b3566.chunk.js"
+    "static/js/main.207090a7.chunk.js"
   ]
 }
